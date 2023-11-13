@@ -1,0 +1,2 @@
+# Mirai Math Wiki
+

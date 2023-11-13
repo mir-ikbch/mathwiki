@@ -8,4 +8,9 @@ He showed that if a monoid \\(S\\) has a finite terminating Church-Rosser presen
 $$ C_3 \to C_2 \to C_1 \to C_0 \to \mathbb{Z} \to 0 $$
 with finitely generated \\(C_i\\)s.
 
-Thus, once we show that a monoid is not FP3, then it does not have a finite terminating Church-Rosser presentation.
+Thus, if a monoid is not FP3, then it does not have a finite terminating Church-Rosser presentation.
+
+
+Kobayashi showed that having a finite terminating Church-Rosser presentation implies the monoid is in fact FP\\(\inf\\).
+
+Y. Kobayashi, Complete rewriting systems and homology of monoid algebras. Journal of Pure and Applied Algebra, 65:263-275, 1990.
